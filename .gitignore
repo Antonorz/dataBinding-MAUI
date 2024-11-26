@@ -1,0 +1,8 @@
+*.pdb
+*.mdb
+bin/
+obj/
+.vscode/
+.vs/
+*.user
+*.userosscache
